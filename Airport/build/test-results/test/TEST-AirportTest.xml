@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AirportTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-06-19T13:35:32" hostname="MGC000009717.warley.ford.com" time="0.005">
+  <properties/>
+  <testcase name="objectExists" classname="AirportTest" time="0.004"/>
+  <testcase name="hangerIsEmpty" classname="AirportTest" time="0.0"/>
+  <testcase name="landingPlaneAddsPlaneToHanger" classname="AirportTest" time="0.001"/>
+  <testcase name="takeoffPlaneRemovesPlaneFromHanger" classname="AirportTest" time="0.0"/>
+  <testcase name="planeIsToldToLandUsingLand" classname="AirportTest" time="0.0"/>
+  <testcase name="planeIsToldToTakeoffUsingTakeoff" classname="AirportTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

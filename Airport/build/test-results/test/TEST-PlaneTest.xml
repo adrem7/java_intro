@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlaneTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-19T13:35:32" hostname="MGC000009717.warley.ford.com" time="0.001">
+  <properties/>
+  <testcase name="objectExists" classname="PlaneTest" time="0.0"/>
+  <testcase name="planeIsNotFlyingWhenLands" classname="PlaneTest" time="0.0"/>
+  <testcase name="planeIsFlyingWhenTakesoff" classname="PlaneTest" time="0.0"/>
+  <testcase name="planeIsNotFlyingOnCreation" classname="PlaneTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
